@@ -1,4 +1,5 @@
 import { app } from "./app";
+import sql from "./config/connection";
 
 const PORT = 3333;
 
