@@ -1,0 +1,9 @@
+{
+  "profile": "openai",
+  "env": {
+    "OPENAI_BASE_URL": "http://localhost:11434/v1",
+    "OPENAI_MODEL": "qwen3:4b-thinking-threads12",
+    "OPENAI_API_FORMAT": "chat_completions"
+  },
+  "createdAt": "2026-05-01T23:53:06.932Z"
+}
