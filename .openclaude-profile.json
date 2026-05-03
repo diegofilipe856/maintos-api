@@ -1,9 +1,10 @@
 {
-  "profile": "openai",
+  "profile": "codex",
   "env": {
-    "OPENAI_BASE_URL": "http://localhost:11434/v1",
-    "OPENAI_MODEL": "qwen3:4b-thinking-threads12",
-    "OPENAI_API_FORMAT": "chat_completions"
+    "OPENAI_BASE_URL": "https://chatgpt.com/backend-api/codex",
+    "OPENAI_MODEL": "gpt-5.5",
+    "CHATGPT_ACCOUNT_ID": "44d778f4-4236-44c2-8fee-a34cde5f70d4",
+    "CODEX_CREDENTIAL_SOURCE": "oauth"
   },
-  "createdAt": "2026-05-01T23:53:06.932Z"
+  "createdAt": "2026-05-03T14:33:11.775Z"
 }
